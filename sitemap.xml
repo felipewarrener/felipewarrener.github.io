@@ -3,112 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/first-post/</loc>
+    <loc>http://felipewarrener.github.io/blog/first-post/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>http://felipewarrener.github.io/blog/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/about/</loc>
+    <loc>http://felipewarrener.github.io/categories/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/about/</loc>
+    <loc>http://felipewarrener.github.io/tags/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://felipewarrener.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>/tags/asm/</loc>
-    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/assembly/</loc>
+    <loc>http://felipewarrener.github.io/tags/asm/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/bio/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/c/</loc>
+    <loc>http://felipewarrener.github.io/categories/assembly/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://felipewarrener.github.io/tags/bio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felipewarrener.github.io/tags/c/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://felipewarrener.github.io/categories/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/intro/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/low-level-programming/</loc>
+    <loc>http://felipewarrener.github.io/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/me/</loc>
+    <loc>http://felipewarrener.github.io/tags/intro/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/memory-corruption/</loc>
+    <loc>http://felipewarrener.github.io/categories/low-level-programming/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/stack-alignment/</loc>
+    <loc>http://felipewarrener.github.io/tags/me/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felipewarrener.github.io/categories/memory-corruption/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/stack-frame/</loc>
+    <loc>http://felipewarrener.github.io/tags/stack-alignment/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/stack-padding/</loc>
+    <loc>http://felipewarrener.github.io/tags/stack-frame/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://felipewarrener.github.io/tags/stack-padding/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/x86/</loc>
+    <loc>http://felipewarrener.github.io/tags/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://felipewarrener.github.io/tags/x86/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
