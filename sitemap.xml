@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/first-post/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/asm/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/assembly/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/c/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/intro/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/low-level-programming/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/me/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/memory-corruption/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stack-alignment/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stack-frame/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stack-padding/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/x86/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

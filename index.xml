@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Warrener-Iglesias</title>
+    <link>/</link>
+    <description>Recent content on Felipe Warrener-Iglesias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Oct 2018 14:09:41 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding C/x86 Stack Padding and Alignment</title>
+      <link>/blog/first-post/</link>
+      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
+      
+      <guid>/blog/first-post/</guid>
+      <description>Insert Lead paragraph here.
+A augue nunc lacus auctor efficitur tempor placerat, dictum volutpat mi vitae viverra porta non sem, himenaeos senectus vivamus potenti cubilia sollicitudin. Curae cursus inceptos tincidunt magna mi nibh ad enim etiam, molestie eu quis primis hendrerit taciti phasellus. Feugiat ultricies dictumst iaculis potenti odio laoreet urna at, ultrices curae leo accumsan proin sem lobortis.
+Heading 2 Sollicitudin ornare odio blandit aenean enim lacus accumsan elementum vestibulum porta mauris lorem, ullamcorper class fermentum sem hendrerit ante augue penatibus scelerisque felis leo proin,ad nascetur venenatis sodales dignissim viverra suspendisse turpis convallis condimentum sapien.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a 19 year-old security researcher and information security enthusiast from the United Kingdom, I am interested in all areas of hacking but some of my favourites are:
+ Reverse-engineering Binary exploitation Web/Infrastructure penetration-testing  I started looking into computer security after being fascinated by cheaters I encountered in online games, and I am driven by the challenge of making technology work in ways not originally intended.
+I am always striving to learn more develop my skills, I occasionally play in CTF tournaments and WarGames as I like a challenge.</description>
+    </item>
+    
+  </channel>
+</rss>
