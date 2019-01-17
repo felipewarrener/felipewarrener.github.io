@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bio on Felipe Warrener-Iglesias</title>
-    <link>https://felipewarrener.github.io/tags/bio/</link>
+    <link>//felipewarrener.github.io/tags/bio/</link>
     <description>Recent content in Bio on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://felipewarrener.github.io/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//felipewarrener.github.io/tags/bio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://felipewarrener.github.io/about/</link>
+      <link>//felipewarrener.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://felipewarrener.github.io/about/</guid>
+      <guid>//felipewarrener.github.io/about/</guid>
       <description>I am a 19 year-old security researcher and information-security enthusiast from the United Kingdom. I am interested in all areas of hacking but some of my favourites are:
  Reverse-engineering Binary exploitation Web/Infrastructure penetration-testing  I was first attracted to computer security after being fascinated by cheaters I encountered in online games, specifically the challenge of making a system work in ways unintended. I&amp;rsquo;m driven today by that same fascination and challenge, I think computer security and vulnerability research are the coolest things on Earth.</description>
     </item>

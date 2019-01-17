@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>X86 on Felipe Warrener-Iglesias</title>
-    <link>https://felipewarrener.github.io/tags/x86/</link>
+    <link>//felipewarrener.github.io/tags/x86/</link>
     <description>Recent content in X86 on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Oct 2018 14:09:41 +0100</lastBuildDate>
     
-	<atom:link href="https://felipewarrener.github.io/tags/x86/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//felipewarrener.github.io/tags/x86/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Understanding C/x86 Stack Padding and Alignment</title>
-      <link>https://felipewarrener.github.io/blog/first-post/</link>
+      <link>//felipewarrener.github.io/blog/first-post/</link>
       <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
       
-      <guid>https://felipewarrener.github.io/blog/first-post/</guid>
+      <guid>//felipewarrener.github.io/blog/first-post/</guid>
       <description>Insert Lead paragraph here.
 A augue nunc lacus auctor efficitur tempor placerat, dictum volutpat mi vitae viverra porta non sem, himenaeos senectus vivamus potenti cubilia sollicitudin. Curae cursus inceptos tincidunt magna mi nibh ad enim etiam, molestie eu quis primis hendrerit taciti phasellus. Feugiat ultricies dictumst iaculis potenti odio laoreet urna at, ultrices curae leo accumsan proin sem lobortis.
 Heading 2 Sollicitudin ornare odio blandit aenean enim lacus accumsan elementum vestibulum porta mauris lorem, ullamcorper class fermentum sem hendrerit ante augue penatibus scelerisque felis leo proin,ad nascetur venenatis sodales dignissim viverra suspendisse turpis convallis condimentum sapien.</description>

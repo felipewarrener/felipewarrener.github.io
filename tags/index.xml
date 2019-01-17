@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Felipe Warrener-Iglesias</title>
-    <link>https://felipewarrener.github.io/tags/</link>
+    <link>//felipewarrener.github.io/tags/</link>
     <description>Recent content in Tags on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Oct 2018 14:09:41 +0100</lastBuildDate>
     
-	<atom:link href="https://felipewarrener.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//felipewarrener.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://felipewarrener.github.io/tags/about/</link>
+      <link>//felipewarrener.github.io/tags/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/about/</guid>
+      <guid>//felipewarrener.github.io/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asm</title>
-      <link>https://felipewarrener.github.io/tags/asm/</link>
+      <link>//felipewarrener.github.io/tags/asm/</link>
       <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/asm/</guid>
+      <guid>//felipewarrener.github.io/tags/asm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bio</title>
-      <link>https://felipewarrener.github.io/tags/bio/</link>
+      <link>//felipewarrener.github.io/tags/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/bio/</guid>
+      <guid>//felipewarrener.github.io/tags/bio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://felipewarrener.github.io/tags/c/</link>
+      <link>//felipewarrener.github.io/tags/c/</link>
       <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/c/</guid>
+      <guid>//felipewarrener.github.io/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intro</title>
-      <link>https://felipewarrener.github.io/tags/intro/</link>
+      <link>//felipewarrener.github.io/tags/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/intro/</guid>
+      <guid>//felipewarrener.github.io/tags/intro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Me</title>
-      <link>https://felipewarrener.github.io/tags/me/</link>
+      <link>//felipewarrener.github.io/tags/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/me/</guid>
+      <guid>//felipewarrener.github.io/tags/me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stack Alignment</title>
-      <link>https://felipewarrener.github.io/tags/stack-alignment/</link>
+      <link>//felipewarrener.github.io/tags/stack-alignment/</link>
       <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/stack-alignment/</guid>
+      <guid>//felipewarrener.github.io/tags/stack-alignment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stack Frame</title>
-      <link>https://felipewarrener.github.io/tags/stack-frame/</link>
+      <link>//felipewarrener.github.io/tags/stack-frame/</link>
       <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/stack-frame/</guid>
+      <guid>//felipewarrener.github.io/tags/stack-frame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stack Padding</title>
-      <link>https://felipewarrener.github.io/tags/stack-padding/</link>
+      <link>//felipewarrener.github.io/tags/stack-padding/</link>
       <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/stack-padding/</guid>
+      <guid>//felipewarrener.github.io/tags/stack-padding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>X86</title>
-      <link>https://felipewarrener.github.io/tags/x86/</link>
+      <link>//felipewarrener.github.io/tags/x86/</link>
       <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
       
-      <guid>https://felipewarrener.github.io/tags/x86/</guid>
+      <guid>//felipewarrener.github.io/tags/x86/</guid>
       <description></description>
     </item>
     
