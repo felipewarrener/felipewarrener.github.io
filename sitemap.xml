@@ -3,112 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//felipewarrener.github.io/blog/first-post/</loc>
+    <loc>//felipewarrener.co.uk/blog/first-post/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/blog/</loc>
+    <loc>//felipewarrener.co.uk/blog/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/about/</loc>
+    <loc>//felipewarrener.co.uk/tags/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/categories/about/</loc>
+    <loc>//felipewarrener.co.uk/categories/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/about/</loc>
+    <loc>//felipewarrener.co.uk/about/</loc>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/asm/</loc>
-    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//felipewarrener.github.io/categories/assembly/</loc>
+    <loc>//felipewarrener.co.uk/tags/asm/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/bio/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//felipewarrener.github.io/tags/c/</loc>
+    <loc>//felipewarrener.co.uk/categories/assembly/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/categories/</loc>
+    <loc>//felipewarrener.co.uk/tags/bio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//felipewarrener.co.uk/tags/c/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/</loc>
+    <loc>//felipewarrener.co.uk/categories/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/intro/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//felipewarrener.github.io/categories/low-level-programming/</loc>
+    <loc>//felipewarrener.co.uk/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/me/</loc>
+    <loc>//felipewarrener.co.uk/tags/intro/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/categories/memory-corruption/</loc>
+    <loc>//felipewarrener.co.uk/categories/low-level-programming/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/stack-alignment/</loc>
+    <loc>//felipewarrener.co.uk/tags/me/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//felipewarrener.co.uk/categories/memory-corruption/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/stack-frame/</loc>
+    <loc>//felipewarrener.co.uk/tags/stack-alignment/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/stack-padding/</loc>
+    <loc>//felipewarrener.co.uk/tags/stack-frame/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/</loc>
+    <loc>//felipewarrener.co.uk/tags/stack-padding/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//felipewarrener.github.io/tags/x86/</loc>
+    <loc>//felipewarrener.co.uk/tags/</loc>
+    <lastmod>2018-10-25T14:09:41+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//felipewarrener.co.uk/tags/x86/</loc>
     <lastmod>2018-10-25T14:09:41+01:00</lastmod>
     <priority>0</priority>
   </url>
