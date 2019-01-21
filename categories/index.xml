@@ -6,7 +6,6 @@
     <description>Recent content in Categories on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Oct 2018 14:09:41 +0100</lastBuildDate>
     
 	<atom:link href="https://felipewarrener.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,29 +20,11 @@
     </item>
     
     <item>
-      <title>Assembly</title>
-      <link>https://felipewarrener.co.uk/categories/assembly/</link>
-      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
+      <title>Ctf</title>
+      <link>https://felipewarrener.co.uk/categories/ctf/</link>
+      <pubDate>Sun, 20 Jan 2019 22:04:23 +0000</pubDate>
       
-      <guid>https://felipewarrener.co.uk/categories/assembly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Level Programming</title>
-      <link>https://felipewarrener.co.uk/categories/low-level-programming/</link>
-      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/categories/low-level-programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memory Corruption</title>
-      <link>https://felipewarrener.co.uk/categories/memory-corruption/</link>
-      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/categories/memory-corruption/</guid>
+      <guid>https://felipewarrener.co.uk/categories/ctf/</guid>
       <description></description>
     </item>
     

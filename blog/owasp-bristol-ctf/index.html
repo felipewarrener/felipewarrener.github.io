@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <meta property="og:image" content="https://felipewarrener.co.uk/img/just-eat-ctf-photo.jpg"/>
+    <meta name="twitter:image:src" content="https://felipewarrener.co.uk/img/just-eat-ctf-photo.jpg"/>
+
+
+    
+    
+    
+
+<title>Competing in OWASP Bristol’s CTF Tournament • Felipe Warrener-Iglesias</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Competing in OWASP Bristol’s CTF Tournament"/>
+<meta name="twitter:description" content="A recap on some of the interesting challenges and my thought process."/>
+
+<meta property="og:title" content="Competing in OWASP Bristol’s CTF Tournament" />
+<meta property="og:description" content="A recap on some of the interesting challenges and my thought process." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://felipewarrener.co.uk/blog/owasp-bristol-ctf/" /><meta property="article:published_time" content="2019-01-20T22:04:23&#43;00:00"/>
+<meta property="article:modified_time" content="2019-01-20T22:04:23&#43;00:00"/><meta property="og:site_name" content="Felipe Warrener-Iglesias" />
+
+
+    
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://felipewarrener.co.uk/scss/hyde-hyde.7011addd98be0a64b029b3e5e5a373c0d71cd132d36ff536d1cdc66342930af1.css" integrity="sha256-cBGt3Zi&#43;CmSwKbPl5aNzwNcc0TLTb/U20c3GY0KTCvE=" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://felipewarrener.co.uk/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" crossorigin="anonymous" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../../apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="../../favicon.png">
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://felipewarrener.co.uk/">Felipe Warrener-Iglesias</a>
+      </span>
+      
+      <p class="site__description">
+         A blog about things I&#39;ve encountered on my information security journey. Topics like: CTF challenges, security research and explanations of security concepts. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Felipe Warrener-Iglesias</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="../../blog/">
+						<span>Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="../../about/">
+						<span>About</span>
+					</a>
+				</li>
+			 
+		
+		</li>
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/fwrnr" target="_blank" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	<a href="https://github.com/felipewarrener" target="_blank" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/felipewarrener-iglesias" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://stackoverflow.com/users/3527602/felipe-warrener-iglesias" target="_blank" rel="me"><i class="fab fa-stack-overflow fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    <div class="copyright">
+  &copy; 2019 Felipe Warrener-Iglesias.
+  <br/><a href="https://creativecommons.org/licenses/by-sa/4.0">Some Rights Reserved</a>.
+  
+</div>
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    <article>
+  <header>
+    <h1>Competing in OWASP Bristol’s CTF Tournament</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Jan 20, 2019
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="../../categories/ctf">CTF</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="../../tags/ctf">ctf</a>
+           
+      
+          <a class="badge badge-tag" href="../../tags/web-app">web-app</a>
+           
+      
+          <a class="badge badge-tag" href="../../tags/owasp">owasp</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 5 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    
+
+<p>On Wednesday the 9th of January, I attended a CTF tournament arranged by the OWASP Bristol Chapter, SecureCodeWarrior and JustEat at the JustEat offices in London and Bristol.</p>
+
+<p>I thought I’d share my experience competing in the CTF, some of the challenges and what I learnt from them. On a less important note I will also share where I finished on the tournament leaderboard!</p>
+
+<h3 id="ctf-structure">CTF Structure</h3>
+
+<p>As you&rsquo;d guess, this CTF was based solely on web-app vulnerabilities, to be even more specific, the OWASP Top 10 vulnerabilities in web-apps.</p>
+
+<p>One not so common aspect of this CTF was that the challenges represented much more of a white-box testing scenario, I later understood this a bit more after looking further into SecureCodeWarrior’s product and target audience. I used this as an opportunity to work on my code-auditing skills, I also used it as an opportunity to view some vulnerable .NET/WebForms code implementations, I use this language/framework on a daily basis and could benefit from seeing common mistakes.</p>
+
+<p>The atmosphere at the CTF was really great, the hosts ordered us pizza and there was a fridge stocked full of beers for us to drink whilst playing! (I didn&rsquo;t eat anything as I was too busy concentrating!)</p>
+
+<h3 id="challenges-knowledge-i-gained-from-them">Challenges &amp; Knowledge I Gained From Them</h3>
+
+<h4 id="os-command-injection">OS Command Injection</h4>
+
+<p>One challenge was the discovery and mitigation of an OS command injection vulnerability. I can’t look back on the code, but I can recall that some hidden-field/client-side data was being used as a command-line argument to a process being started on the server without sanitization. An attacker could therefore craft input that injects commands of their choosing to be executed by the server.</p>
+
+<p>This challenge offered a lot of points, at first I couldn’t think of how I’d prevent malicious meta-character injection beyond escape sequences. However, after reviewing the OWASP Top 10 and some (quick) further reading, I chose a mitigation that included a white-list of possible input cases/values. Whilst maintaining this is more work for application security engineers, it guarantees only the input cases you permit have reachable code paths. I think it is a good solution if you don’t expect the input to vary a lot, but still don’t want to trust it as secure. It is something I will consider when handling attacker-controlled input that doesn’t vary much in future code I write.</p>
+
+<p>My chosen mitigation was correct and I gained the maximum amount of points for that specific challenge. I found it useful to look at a command-injection vulnerability in a .NET context as this will help me to mitigate them in future code I write.</p>
+
+<h4 id="sql-injection">SQL Injection</h4>
+
+<p>Another challenge category I learnt a lot from was SQL injection vulnerabilities. I had previous knowledge of how to identify and exploit SQL injection vulnerabilities, but I wasn’t 100% sure on practice (especially in .NET) to completely mitigate said vulnerabilities.</p>
+
+<p>After again reading up on the OWASP Top 10 and eliminating some obvious broken mitigations, I developed an intuition for solving these challenges as I’d subconsciously formed a secure .NET SQL query formation methodology in my head that went something like:</p>
+
+<ol>
+<li>Sanitize input from the client.</li>
+<li>Prepare a parameterized query string uses .NET’s built-in SQL query object and ‘@’ string parameterization construct.</li>
+<li>Use .NET’s query object to fill the query’s parameters with the sanitized input, which is aware of potentially insecure input and treats it in a value context, rather than part of the query syntax (should an attacker bypass the sanitization).</li>
+</ol>
+
+<p>Every time I recognized a solution that implemented something similar to this, I instantly selected that solution, I was successful 100% of the time doing this and this helped me make up for some time lost on other challenges where I was slow to avoid losing points with wrong answers.</p>
+
+<h4 id="insecure-session-id-generation-deletion">Insecure Session ID Generation/Deletion</h4>
+
+<p>The final challenge category I recall was insecure session ID generation. The vulnerable code in question was mainly pseudo-random generation of session ID’s, or session ID generation that was very vulnerable to enumeration attacks. For example, in one case, the session ID generation was a loop that iterated 5 times, either re-initializing the session ID to a random number between 1 and 5, or incrementing it by a random number from 1 to 5.</p>
+
+<p>These cases are both vulnerable as an attacker could perform an enumeration attack starting from 0 or their session ID and incrementing by 1 to potentially reach another user’s session ID within 5 or less iterations.</p>
+
+<p>Whilst I’m not that knowledgeable on string entropy, I’m aware that implementing a secure session ID requires the ID being a length that prevents brute-force attacks (OWASP suggests 128-bits/16-bytes) and incorporates a certain degree of entropy to prevent guessing attacks backed by statistical analysis. (OWASP suggest roughly 64-bits) and this was enough to identify both the vulnerability and the best mitigation.</p>
+
+<p>I haven’t yet mentioned what I learnt from this challenge… Surprisingly, what I learnt or rather reiterated in my brain, is that you should avoid reinventing the wheel and if you can, use the security controls available in your run-time/framework whenever possible. People have likely worked a lot longer on securing these than you have on your custom implementation. After all, hacking is simply about knowing something on a deeper level than the person who originally implemented it.</p>
+
+<h3 id="final-placing">Final Placing</h3>
+
+<p>After a very intense 2 hours, the time limit for completing challenges was reached and placings and prizes were announced to various competitors!</p>
+
+<p>I placed 9th! I didn&rsquo;t expect this given so many talented people from different backgrounds had played. I’m really happy to have placed in the top 10 and it has motivated me to play more CTF, keep hacking and work really hard on developing myself as an information security professional.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    
+</div>
+
+
+  
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+<script defer src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"
+  integrity="sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy"
+  crossorigin="anonymous">
+</script>
+
+
+
+
+
+    
+
+
+
+    </body>
+</html>

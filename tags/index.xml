@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Oct 2018 14:09:41 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 22:04:23 +0000</lastBuildDate>
     
 	<atom:link href="https://felipewarrener.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Asm</title>
-      <link>https://felipewarrener.co.uk/tags/asm/</link>
-      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/tags/asm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bio</title>
       <link>https://felipewarrener.co.uk/tags/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -39,11 +30,11 @@
     </item>
     
     <item>
-      <title>C</title>
-      <link>https://felipewarrener.co.uk/tags/c/</link>
-      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
+      <title>Ctf</title>
+      <link>https://felipewarrener.co.uk/tags/ctf/</link>
+      <pubDate>Sun, 20 Jan 2019 22:04:23 +0000</pubDate>
       
-      <guid>https://felipewarrener.co.uk/tags/c/</guid>
+      <guid>https://felipewarrener.co.uk/tags/ctf/</guid>
       <description></description>
     </item>
     
@@ -66,38 +57,20 @@
     </item>
     
     <item>
-      <title>Stack Alignment</title>
-      <link>https://felipewarrener.co.uk/tags/stack-alignment/</link>
-      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
+      <title>Owasp</title>
+      <link>https://felipewarrener.co.uk/tags/owasp/</link>
+      <pubDate>Sun, 20 Jan 2019 22:04:23 +0000</pubDate>
       
-      <guid>https://felipewarrener.co.uk/tags/stack-alignment/</guid>
+      <guid>https://felipewarrener.co.uk/tags/owasp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stack Frame</title>
-      <link>https://felipewarrener.co.uk/tags/stack-frame/</link>
-      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
+      <title>Web App</title>
+      <link>https://felipewarrener.co.uk/tags/web-app/</link>
+      <pubDate>Sun, 20 Jan 2019 22:04:23 +0000</pubDate>
       
-      <guid>https://felipewarrener.co.uk/tags/stack-frame/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stack Padding</title>
-      <link>https://felipewarrener.co.uk/tags/stack-padding/</link>
-      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/tags/stack-padding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>X86</title>
-      <link>https://felipewarrener.co.uk/tags/x86/</link>
-      <pubDate>Thu, 25 Oct 2018 14:09:41 +0100</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/tags/x86/</guid>
+      <guid>https://felipewarrener.co.uk/tags/web-app/</guid>
       <description></description>
     </item>
     

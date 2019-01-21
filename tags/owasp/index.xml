@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Felipe Warrener-Iglesias</title>
-    <link>https://felipewarrener.co.uk/</link>
-    <description>Recent content on Felipe Warrener-Iglesias</description>
+    <title>Owasp on Felipe Warrener-Iglesias</title>
+    <link>https://felipewarrener.co.uk/tags/owasp/</link>
+    <description>Recent content in Owasp on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 20 Jan 2019 22:04:23 +0000</lastBuildDate>
     
-	<atom:link href="https://felipewarrener.co.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://felipewarrener.co.uk/tags/owasp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>On Wednesday the 9th of January, I attended a CTF tournament arranged by the OWASP Bristol Chapter, SecureCodeWarrior and JustEat at the JustEat offices in London and Bristol.
 I thought I’d share my experience competing in the CTF, some of the challenges and what I learnt from them. On a less important note I will also share where I finished on the tournament leaderboard!
 CTF Structure As you&amp;rsquo;d guess, this CTF was based solely on web-app vulnerabilities, to be even more specific, the OWASP Top 10 vulnerabilities in web-apps.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://felipewarrener.co.uk/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/about/</guid>
-      <description>I am a 19 year-old security researcher and information-security enthusiast from the United Kingdom. I am interested in all areas of hacking but some of my favourites are:
- Reverse-engineering Binary exploitation Web/Infrastructure penetration-testing  I was first attracted to computer security after being fascinated by cheaters I encountered in online games, specifically the challenge of making a system work in ways unintended. I&amp;rsquo;m driven today by that same fascination and challenge, I think computer security and vulnerability research are the coolest things on Earth.</description>
     </item>
     
   </channel>
