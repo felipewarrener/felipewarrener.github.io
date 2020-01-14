@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bio on Felipe Warrener-Iglesias</title>
+    <title>bio on Felipe Warrener-Iglesias</title>
     <link>https://felipewarrener.co.uk/tags/bio/</link>
-    <description>Recent content in Bio on Felipe Warrener-Iglesias</description>
+    <description>Recent content in bio on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -16,8 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://felipewarrener.co.uk/about/</guid>
-      <description>I am a 19 year-old security researcher and information-security enthusiast from the United Kingdom. I am interested in all areas of hacking but some of my favourites are:
- Reverse-engineering Binary exploitation Web/Infrastructure penetration-testing  I was first attracted to computer security after being fascinated by cheaters I encountered in online games, specifically the challenge of making a system work in ways unintended. I&amp;rsquo;m driven today by that same fascination and challenge, I think computer security and vulnerability research are the coolest things on Earth.</description>
+      <description>I am really passionate about offensive-security in particular areas like: reverse-engineering, binary exploitation, web-application testing, code auditing, embedded-systems security etc. In my spare time I like to play CTF competitions and perform security research.</description>
     </item>
     
   </channel>

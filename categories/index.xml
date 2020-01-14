@@ -6,25 +6,26 @@
     <description>Recent content in Categories on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 20 Jan 2019 22:04:23 +0000</lastBuildDate>
     
 	<atom:link href="https://felipewarrener.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://felipewarrener.co.uk/categories/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/categories/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ctf</title>
+      <title>CTF</title>
       <link>https://felipewarrener.co.uk/categories/ctf/</link>
       <pubDate>Sun, 20 Jan 2019 22:04:23 +0000</pubDate>
       
       <guid>https://felipewarrener.co.uk/categories/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://felipewarrener.co.uk/categories/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipewarrener.co.uk/categories/about/</guid>
       <description></description>
     </item>
     

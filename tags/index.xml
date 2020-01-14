@@ -12,25 +12,7 @@
     
     
     <item>
-      <title>About</title>
-      <link>https://felipewarrener.co.uk/tags/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bio</title>
-      <link>https://felipewarrener.co.uk/tags/bio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/tags/bio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ctf</title>
+      <title>ctf</title>
       <link>https://felipewarrener.co.uk/tags/ctf/</link>
       <pubDate>Sun, 20 Jan 2019 22:04:23 +0000</pubDate>
       
@@ -39,25 +21,7 @@
     </item>
     
     <item>
-      <title>Intro</title>
-      <link>https://felipewarrener.co.uk/tags/intro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/tags/intro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Me</title>
-      <link>https://felipewarrener.co.uk/tags/me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://felipewarrener.co.uk/tags/me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Owasp</title>
+      <title>OWASP</title>
       <link>https://felipewarrener.co.uk/tags/owasp/</link>
       <pubDate>Sun, 20 Jan 2019 22:04:23 +0000</pubDate>
       
@@ -66,11 +30,47 @@
     </item>
     
     <item>
-      <title>Web App</title>
+      <title>web-app</title>
       <link>https://felipewarrener.co.uk/tags/web-app/</link>
       <pubDate>Sun, 20 Jan 2019 22:04:23 +0000</pubDate>
       
       <guid>https://felipewarrener.co.uk/tags/web-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://felipewarrener.co.uk/tags/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipewarrener.co.uk/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bio</title>
+      <link>https://felipewarrener.co.uk/tags/bio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipewarrener.co.uk/tags/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intro</title>
+      <link>https://felipewarrener.co.uk/tags/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipewarrener.co.uk/tags/intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://felipewarrener.co.uk/tags/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://felipewarrener.co.uk/tags/me/</guid>
       <description></description>
     </item>
     
