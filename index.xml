@@ -6,10 +6,23 @@
     <description>Recent content on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Jan 2019 22:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://felipewarrener.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IOLI CrackMe Challenges Walkthrough</title>
+      <link>https://felipewarrener.co.uk/blog/ioli-crackmes-1-3/</link>
+      <pubDate>Sun, 07 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://felipewarrener.co.uk/blog/ioli-crackmes-1-3/</guid>
+      <description>This blog post is a series of write-ups for the IOLI reverse-engineering crackmes. It will end up pretty lengthy as it&amp;rsquo;s intended to be comprehensive. I will be uploading 3 solutions at a time on this blog post. You can skip to any single challenge using the following links:
+Challenge 1
+Challenge 2
+Challenge 3
+Challenge 1 This challenge consists of a simple comparison inside main() that checks if the user&amp;rsquo;s input (interpreted as a signed-integer) is equal to the value 0x149a and outputs a success message if they are equal (this can be inferred from reading the strings stored in the executable&amp;rsquo;s .</description>
+    </item>
     
     <item>
       <title>Competing in OWASP Bristol’s CTF Tournament</title>

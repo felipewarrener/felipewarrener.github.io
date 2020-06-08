@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Felipe Warrener-Iglesias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Jan 2019 22:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://felipewarrener.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>crackme</title>
+      <link>https://felipewarrener.co.uk/tags/crackme/</link>
+      <pubDate>Sun, 07 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://felipewarrener.co.uk/tags/crackme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://felipewarrener.co.uk/tags/linux/</link>
+      <pubDate>Sun, 07 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://felipewarrener.co.uk/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>x86</title>
+      <link>https://felipewarrener.co.uk/tags/x86/</link>
+      <pubDate>Sun, 07 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://felipewarrener.co.uk/tags/x86/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ctf</title>
